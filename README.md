@@ -2,7 +2,6 @@
 
 <H3>Name :  GURU REVANTH KUMARAVEL RADHIKA</H3>
 <H3>Register no. 212223230065</H3>
-<H3>Date</H3>
 
 ## Implementation of Perceptron for Binary Classification
 # AIM:
